@@ -1,0 +1,12 @@
+‘STAY SAFE ONLINE’ CHECKLIST: PREVENTVE MEASURES:
+* Use Strong, Unique Passwords – Create passwords with letters, numbers, and special characters. Avoid using birthdays or common words. 
+* Enable Two-Factor Authentication (2FA) – Activate 2FA on email, social media, and banking apps for extra security. 
+* Protect Your UPI/Bank Accounts – Never share UPI PINs, OTPs, or debit/credit card details with anyone, even friends. 
+* Verify Online Payment Links – Only use official banking apps or trusted platforms for transactions; avoid clicking on suspicious payment links. 
+* Keep Software Updated – Regularly update your phone, laptop, and apps to protect against security vulnerabilities. 
+* Think Before You Share – Avoid posting personal details such as your address, exam schedules, or travel plans publicly. 
+* Avoid Suspicious Links & Emails – Do not click on unknown links or attachments; phishing scams often mimic official sources. 
+* Adjust Privacy Settings – Restrict who can view your social media profiles and posts; review permissions for apps regularly. 
+* Secure Public Wi-Fi Usage – Avoid accessing sensitive accounts on public Wi-Fi. Use VPNs when necessary. 
+* Report Cybercrime Promptly – In case of fraud, harassment, or cyber threats, report immediately via the National Cyber Crime Portal: https://cybercrime.gov.in or call the helpline 1930. 
+
