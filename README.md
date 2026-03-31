@@ -28,7 +28,7 @@ Task 2: Student digital portfolio:
 
 Task 3: Coding and collaboration:
         Completed a beginner-level challenge (“Solve Me First”) on HackerRank. Designed a Google Form with 5 questions for a Digital Literacy Awareness Quiz.
-        The platforms used are HackerRank, Google forms etc.
+        The platforms used are HackerRank, Google forms etc. quiz link: https://docs.google.com/forms/d/e/1FAIpQLSep-pZtoylpayMopRO_OSJ4OK116iahGLS68JmRyNo3f-6sPQ/viewform?usp=header
 
 Task 4: Email and Communication Etiquette:
         Composed a professional email requesting an assignment extension. Created an email etiquette checklist and reflected on digital communication best  
